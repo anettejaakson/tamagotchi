@@ -1,0 +1,2 @@
+# tamagotchi
+Python project
